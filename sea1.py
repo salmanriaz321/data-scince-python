@@ -1,4 +1,4 @@
-import seaborn as sns
+import sea1 as sns
 import matplotlib.pyplot as plt
 df = sns.load_dataset('penguins')
 df = df.dropna()
